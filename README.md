@@ -1,2 +1,2 @@
 # Rhythmic
-## A Rhythm Game made in Swift for iOS
+## A Rhythm Game made in Unity
